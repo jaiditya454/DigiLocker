@@ -26,7 +26,9 @@ using RSA and AES.
 IMPLEMENTATION AND RESULT ANALYSIS 
 • Each citizen have their unique citizen pin provided by government. If client enters his 
 citizen pin correctly, he can get his documents from respective servers to digiLocker 
-serve
+server
+
+
 
 
 ![image](https://github.com/jaiditya454/DigiLocker/assets/115802490/7185ddaa-5b9e-487b-841e-ec426f62fb50)
